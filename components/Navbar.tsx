@@ -36,7 +36,7 @@ const Navbar: React.FC = () => {
           - If isDarkBg is false (About/Contact/Gallery): Force to black (brightness-0)
         */}
         <img 
-          src="pages/assets/images/Fuzzy.png" 
+          src="/images/Fuzzy.png" 
           alt="Fuzzy Visuals Logo"
           className={`
             w-auto object-contain transition-all duration-500 group-hover:opacity-70

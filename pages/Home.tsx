@@ -7,7 +7,7 @@ const Home: React.FC = () => {
       {/* Background Image with Continuous Ken Burns Animation */}
       <div className="absolute inset-0 overflow-hidden">
         <img 
-          src="pages\assets\images\weddings\DSC_9158.JPG" 
+          src="/images/weddings/DSC_9158.JPG" 
           alt="Hero"
           className="w-full h-full object-cover grayscale brightness-75 animate-ken-burns"
         />

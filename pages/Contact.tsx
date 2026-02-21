@@ -53,7 +53,7 @@ const Contact: React.FC = () => {
              
              <div>
                 <p className="text-sm font-light leading-relaxed max-w-sm">
-                  Currently accepting select commissions for 2025/2026. 
+                  Currently accepting select commissions for 2026/2027. 
                   Please reach out via email for lookbook or travel dates.
                 </p>
              </div>

@@ -28,7 +28,7 @@ const About: React.FC = () => {
         <div className="md:w-1/2 flex items-center justify-center">
           <div className="w-full max-w-md aspect-[3/4] overflow-hidden bg-gray-100 grayscale fade-in">
             <img 
-              src="pages/assets/images/portraits/g.jpg" 
+              src="/images/portraits/g.jpg" 
               alt="Irad Galo" 
               className="w-full h-full object-cover"
             />
